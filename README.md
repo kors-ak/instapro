@@ -6,7 +6,7 @@ _Учебный проект по frontend-разработке_
 
 ## Демо
 
-https://kors-ak.github.io/webdev-cw-instapro/
+https://kors-ak.github.io/instapro/
 
 ## Возможности
 
@@ -77,7 +77,7 @@ index.js        — точка входа и управление состоян
 ## Запуск проекта
 
 ```bash
-git clone https://github.com/kors-ak/webdev-cw-instapro
+git clone https://github.com/kors-ak/instapro
 ```
 
 После клонирования откройте файл:
